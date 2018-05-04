@@ -23,7 +23,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
-
+    <link href="css/style.css" rel="stylesheet">
   </head>
 
   <body id="page-top">
@@ -57,40 +57,42 @@
     <header class="masthead"> 
         <div class="row">
         <div style="margin-top:10%; margin-left:10%; margin-right:10%;">      
-          <img src="/img/banner.png" class="img-fluid" alt="Responsive image">
+          <img src="./img/banner.png" class="img-fluid" alt="Responsive image">
           </div>
         </div>
     </header>
 
     <div class="row" style="margin-top:2%; margin-left:1%; margin-right:1%">
-        <div class="col-md-7">
-        <img src="/img/about-iqra.png" class="img-fluid" alt="Responsive image">
+        <div class="col-md-7 img">
+        <img src="./img/about-iqra.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-5"> 
-         <img src="/img/portfolio.png" class="img-fluid" alt="Responsive image">
+        <div class="col-md-5 img"> 
+         <img src="./img/portfolio.png" class="img-fluid" alt="Responsive image">
         </div>
     </div>
     
       <div class="row" style="margin-top:2%; margin-left:1%; margin-right:1%">
-        <div class="col-md-4">
-                   <img src="/img/service.png" class="img-fluid" alt="Responsive image">
+        <div class="col-md-4 img">
+                   <img src="./img/service.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-4">
-                   <img src="/img/blogblock.png" class="img-fluid" alt="Responsive image">
+        <div class="col-md-4 img">
+                   <img src="./img/blogblock.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-4">
-                   <img src="/img/contactblock.png" class="img-fluid" alt="Responsive image">
+        <div class="col-md-4 img">
+                   <img src="./img/contactblock.png" class="img-fluid" alt="Responsive image">
         </div>
     </div>
     
     <div class="col-lg-8 mx-auto">
-        <p class="text-dark mb-5 text-center">tester</p>
+      <br/>
     </div>
     
-   <header class="masthead" style="height:10px"> 
+   <header class="mastheadfooter"> 
         <div class="row">
         </div>
     </header>
+
+
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
