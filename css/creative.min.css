@@ -168,7 +168,32 @@ header.masthead {
   background-image: url("../img/marble.png");
 }
 
+footer.footer {
+  padding-top: 10rem;
+  padding-top: 10rem;
+  height: 50%;
+  padding-bottom: calc(10rem - 56px);
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+color: grey;
+}
+
+
 header.masthead2 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 9px);
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #f5ece9;
+}
+
+header.gallery {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-position: center center;
@@ -176,8 +201,20 @@ header.masthead2 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-image: url("../img/aboutHeader.png");
+  background-image: url("../img/portfolioHeader.png");
 }
+
+header.service {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-image: url("../img/servicesHeader.png");
+}
+
 header.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;

@@ -23,6 +23,9 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
+    
+
+
 
   </head>
 
@@ -31,7 +34,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+        <a class="navbar-brand js-scroll-trigger" href="index.php">IQRA</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -42,7 +45,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="gallery.php">Gallery</a>
-            </li>
+            </li> 
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="services.php">Services</a>
             </li>
@@ -54,37 +57,67 @@
       </div>
     </nav>
 
-    <header class="masthead"> 
+      <header class="masthead2"> 
         <div class="row">
-        <div style="margin-top:10%; margin-left:10%; margin-right:10%;">      
-          <img src="/img/banner.png" class="img-fluid" alt="Responsive image">
-          </div>
+        <div style="margin-top:10%; margin-left:10%; margin-right:10%;">     
+            </div>
         </div>
     </header>
 
-    <div class="row" style="margin-top:2%; margin-left:1%; margin-right:1%">
-        <div class="col-md-3">
-        <img src="" class="img-fluid" alt="Responsive image">
+    <div class="row" style="margin-left:1%; margin-right:1%">
+        <div class="col-md-7" >
+        
+        <img src="./img/aboutiqra.png" class="img-fluid" alt="Responsive image" style="margin-top:-38%;">
         </div>
-        <div class="col-md-6">
-        <img src="/img/about-iqra.png" class="img-fluid" alt="Responsive image">
-        </div>
-        <div class="col-md-3"> 
-         <img src="" class="img-fluid" alt="Responsive image">
+        <div class="col-md-4"  style="margin-top:-25%;">
+        <img src="./img/iqra2.png" class="img-fluid" alt="Responsive image">
         </div>
     </div>
     
-      <div class="row" style="margin-top:2%; margin-left:1%; margin-right:1%">
-        <div class="col-md-4">
-                   <img src="/img/service.png" class="img-fluid" alt="Responsive image">
+      <div class="row" style="margin-left:10%; margin-right:10%">
+        <div class="col-md-6">
+           <p style="text-align:justify">
+           <h2>Title </h2>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius justo eget mi rhoncus, sed placerat diam malesuada. Curabitur ac ornare nisi. Curabitur gravida, quam quis tristique finibus, dolor augue varius metus, ut accumsan urna nisl sed ipsum. Pellentesque molestie nibh ac diam dapibus sollicitudin. Pellentesque id arcu condimentum, imperdiet nisl quis, ultrices tortor. Donec faucibus fringilla sem, a pretium dui hendrerit vel. Phasellus at sapien eget ligula fringilla commodo. Praesent consectetur porttitor ipsum, ac blandit mi sagittis ac. Ut sed scelerisque risus, in ultrices elit.</p><br>
+           </div>
+          <div class="col-md-2"></div>
+          <div class="col-md-4" style="margin-top: 5%">
+          <b> 01 </b> Overview <br/><br/>
+         <b> 02 </b>  Something Else <br/> <br/>
+          <b> 03 </b> Something Else <br/><br/> 
+          
+          </div>
+          </div>
+ <div class="row" >
+        <div class="col-md-6" style="margin-top:5%">
+        <img src="./img/eye.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-4">
-                   <img src="/img/blogblock.png" class="img-fluid" alt="Responsive image">
+        <div class="col-md-4" style="margin-top:5%; margin-left:2%">
+        <p style="text-align:justify">
+           <h2>Products</h2>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius justo eget mi rhoncus, sed placerat diam malesuada. Curabitur ac ornare nisi. Curabitur gravida, quam quis tristique finibus, dolor augue varius metus, ut accumsan urna nisl sed ipsum. Pellentesque molestie nibh ac diam dapibus sollicitudin. Pellentesque id arcu condimentum, imperdiet nisl quis, ultrices tortor. Donec faucibus fringilla sem, a pretium dui hendrerit vel. Phasellus at sapien eget ligula fringilla commodo. Praesent consectetur porttitor ipsum, ac blandit mi sagittis ac. Ut sed scelerisque risus, in ultrices elit.</p><br>
         </div>
-        <div class="col-md-4">
-                   <img src="/img/service.png" class="img-fluid" alt="Responsive image">
+</div>
+
+ <div class="row" style="margin-top:5%" >
+        <div class="col-md-6" style="margin-top:5%; margin-left:5%">
+        <b> 04 </b> Overview <br/><br/>
+         <b> 05 </b>  Something Else <br/> <br/>
+          <b> 06 </b> Something Else <br/><br/> 
+          <p style="text-align:justify">
+           <h2>Something Else</h2>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius justo eget mi rhoncus, sed placerat diam malesuada. Curabitur ac ornare nisi. Curabitur gravida, quam quis tristique finibus, dolor augue varius metus, ut accumsan urna nisl sed ipsum. Pellentesque molestie nibh ac diam dapibus sollicitudin. Pellentesque id arcu condimentum, imperdiet nisl quis, ultrices tortor. Donec faucibus fringilla sem, a pretium dui hendrerit vel. Phasellus at sapien eget ligula fringilla commodo. Praesent consectetur porttitor ipsum, ac blandit mi sagittis ac. Ut sed scelerisque risus, in ultrices elit.</p><br>
+          </div>
+          <div class="col-md-5" style="margin-top:5%">
+        <img src="./img/makeup.png" class="img-fluid" alt="Responsive image">
         </div>
-    </div>
+</div>
+
+                  
+<?php include('./duplicates/footer.php'); ?>    
+       
+        
+    
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>

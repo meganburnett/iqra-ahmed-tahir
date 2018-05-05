@@ -54,10 +54,9 @@
       </div>
     </nav>
 
-    <header class="masthead"> 
+    <header class="service"> 
         <div class="row">
         <div style="margin-top:10%; margin-left:10%; margin-right:10%;">      
-          <img src="/img/banner.png" class="img-fluid" alt="Responsive image">
           </div>
         </div>
     </header>
