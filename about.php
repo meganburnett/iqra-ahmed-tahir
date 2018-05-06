@@ -67,9 +67,9 @@
     <div class="row" style="margin-left:1%; margin-right:1%">
         <div class="col-md-7" >
         
-        <img src="./img/aboutiqra.png" class="img-fluid" alt="Responsive image" style="margin-top:-38%;">
+        <img src="./img/aboutiqra.png" class="img-fluid" alt="Responsive image" style="margin-top:-35%;">
         </div>
-        <div class="col-md-4"  style="margin-top:-25%;">
+        <div class="col-md-4"  style="margin-top:-20%;">
         <img src="./img/iqra2.png" class="img-fluid" alt="Responsive image">
         </div>
     </div>
@@ -113,10 +113,9 @@
         </div>
 </div>
 
-                  
+           
 <?php include('./duplicates/footer.php'); ?>    
-       
-        
+   
     
 
     <!-- Bootstrap core JavaScript -->

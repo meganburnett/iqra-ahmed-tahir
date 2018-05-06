@@ -24,6 +24,32 @@
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+
+    <style>
+
+
+.centered {
+    position: absolute;
+    top: 70%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+}
+
+div.zoom {
+  content:url("./img/button.png");
+}
+
+
+
+.zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+
+
+
+</style>
   </head>
 
   <body id="page-top">
@@ -66,10 +92,14 @@
         <div class="col-md-7 img">
         <img src="./img/about-iqra.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-5 img"> 
-         <img src="./img/portfolio.png" class="img-fluid" alt="Responsive image">
+
+         <div class="col-md-5 img">
+        <img src="./img/portfolio.png" class="img-fluid" alt="Responsive image">
+        <div class="centered"><div class="zoom" style="width:90%"></div></div>
         </div>
-    </div>
+
+</div>
+
     
       <div class="row" style="margin-top:2%; margin-left:1%; margin-right:1%">
         <div class="col-md-4 img">
@@ -86,25 +116,13 @@
     <div class="col-lg-8 mx-auto">
       <br/>
     </div>
-    
-   <footer class="grey"> 
-        <div class="row">
-        <div class="container">
-    <hr>
-        <div class="text-center center-block">
-                <a href="https://www.facebook.com/bootsnipp"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
-	            <a href="https://twitter.com/bootsnipp"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
-	            <a href="https://plus.google.com/+Bootsnipp-page"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
-	            <a href="mailto:bootsnipp@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
-</div>
-    <hr>
-</div>
 
-        </div>
-        <p class="text-dark mb-5 text-center" style="font-size:20px;">
-          &copy; Iqra 2018
-</p>
-</footer>
+
+
+
+
+    <!-- footer -->
+    <?php include('./duplicates/footer.php'); ?>    
 
 
 
