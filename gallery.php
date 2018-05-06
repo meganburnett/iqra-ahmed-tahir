@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Iqra Gallery</title>
+    <title>Creative - Start Bootstrap Theme</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -24,74 +23,40 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
+    
+
+
 
   </head>
 
   <body id="page-top">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-      <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="gallery.html">Gallery</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="services.html">Services</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="contact.html">Contact</a>
-            </li>
-             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="blog.html">Blog</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
+    <!-- navigation-->
+    <?php include('./duplicates/navigation.php'); ?>   
 
-    <header class="gallery"> 
+
+      <header class="masthead2"> 
         <div class="row">
-        <div style="margin-top:10%; margin-left:10%; margin-right:10%;">      
-
-          </div>
+        <div style="margin-top:10%; margin-left:10%; margin-right:10%;">     
+            </div>
         </div>
     </header>
 
-
-    <body>
-
-
-
-<br>
-<br>
-
-
-
-
-    </body>
+    <div class="row" style="margin-left:1%; margin-right:1%">
+        <div class="col-md-7" >
+        
+        <img src="./img/services-title.png" class="img-fluid" alt="Responsive image" style="margin-top:-35%;">
+        </div>
+        <div class="col-md-4"  style="margin-top:-27%;">
+        <img src="./img/temp.png" class="img-fluid" alt="Responsive image">
+        </div>
+    </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+           
+<?php include('./duplicates/footer.php'); ?>    
+   
+    
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
@@ -105,8 +70,6 @@
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
 
-  <div style='text-align: right;position: fixed;z-index:9999999;bottom: 0; width: 100%;cursor: pointer;line-height: 0;display:block !important;'><a title="000webhost logo" rel="nofollow" target="_blank" href="https://www.000webhost.com/free-website-sign-up?utm_source=000webhostapp&amp;utm_campaign=000_logo&amp;utm_campaign=ss-footer_logo&amp;utm_medium=000_logo&amp;utm_content=website"><img src="https://cdn.rawgit.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png" alt="000webhost logo"></a></div></body>
-
-
+  </body>
 
 </html>

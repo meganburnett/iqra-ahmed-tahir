@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Iqra Contact</title>
+    <title>IQRA</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -24,74 +23,40 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
+    
+
+
 
   </head>
 
   <body id="page-top">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-      <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                           <a class="nav-link js-scroll-trigger" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="gallery.html">Gallery</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="services.html">Services</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="contact.html">Contact</a>
-            </li>
-             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="blog.html">Blog</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
+  <!-- navigation-->
+  <?php include('./duplicates/navigation.php'); ?>   
 
-    <header class="masthead"> 
+
+      <header class="masthead2"> 
         <div class="row">
-        <div style="margin-top:10%; margin-left:10%; margin-right:10%;">      
-          <img src="/img/banner.png" class="img-fluid" alt="Responsive image">
-          </div>
+        <div style="margin-top:10%; margin-left:10%; margin-right:10%;">     
+            </div>
         </div>
     </header>
 
-
-    <body>
-
-
-
-<br>
-<br>
-
-
-
-
-    </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <div class="row" style="margin-left:1%; margin-right:1%">
+        <div class="col-md-7" >
+        
+        <img src="./img/contact-title.png" class="img-fluid" alt="Responsive image" style="margin-top:-35%;">
+        </div>
+        <div class="col-md-4"  style="margin-top:-15%;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.7660238565218!2d-0.14536484889650958!3d51.49916101902697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760521f5b442c1%3A0xead4b2edc5a3649e!2sBuckingham+Palace+Rd%2C+London+SW1W+0PP!5e0!3m2!1sen!2suk!4v1525637688689" width="550" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+    </div>
+    
+      
+           
+<?php include('./duplicates/footer.php'); ?>    
+   
+    
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
@@ -105,8 +70,6 @@
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
 
-  <div style='text-align: right;position: fixed;z-index:9999999;bottom: 0; width: 100%;cursor: pointer;line-height: 0;display:block !important;'><a title="000webhost logo" rel="nofollow" target="_blank" href="https://www.000webhost.com/free-website-sign-up?utm_source=000webhostapp&amp;utm_campaign=000_logo&amp;utm_campaign=ss-footer_logo&amp;utm_medium=000_logo&amp;utm_content=website"><img src="https://cdn.rawgit.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png" alt="000webhost logo"></a></div></body>
-
-
+  </body>
 
 </html>
