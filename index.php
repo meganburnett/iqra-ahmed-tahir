@@ -67,7 +67,17 @@ div.zoom {
         </div>
     </header>
 
-    <div class="row" style="margin-top:2%; margin-left:1%; margin-right:1%">
+
+
+ <div class="col-lg-8 mx-auto font" style="margin-top:5%">
+        <h2 class="text-dark mb-5 text-center"> W E L C O M E </h2> <hr/>
+        <p class="text-dark mb-5 text-center" style="font-size:15px; margin-top:5%;">
+     <i> I am whatever title and something else interesting to fill up a line and a half. Oh still not enough writing, what more really how is this not 1 and a half yet. Yay Finally.</i></p>
+    </div>
+    
+
+
+    <div class="row" style="margin-top:7%; margin-left:1%; margin-right:1%">
         <div class="col-md-7 img">
         <img src="./img/about-iqra.png" class="img-fluid" alt="Responsive image">
         </div>
