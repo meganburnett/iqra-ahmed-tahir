@@ -52,6 +52,7 @@
       <p style="text-align:justify"> <i>Fill in the form below to enquire. Whether it be a trial, party, prom or bridal makeup get in touch!<br> </p>
 
       <p style="text-align:justify"> I will aim to get back to you as soon as possible but please expect a response within 48 hours. <br></p>
+      <p style="text-align:justify">Please give me a bit of information about what you want to get out of your appointment with me in the comments section of the form below. <br></p>
 
       <p style="text-align:justify"> *please take into consideration travel charges will apply to those not within a 5 mile radius.<br></p>
        </i> </div>
@@ -62,20 +63,46 @@
         </div>
 
 
-    <div class="row" style="margin-left:1%; margin-right:1%">
+    <div class="row" style="margin-top:-5%;"">
+
         <div class="col-md-7" >
 
-
-
-    <form action="">
-  First name:<br>
-  <input type="text" name="firstname" value="Mickey">
+ <form action=""><i>
+  Name:<br>
+  <input type="text" style="width:400px;" name="name" value="">
   <br>
-  Last name:<br>
-  <input type="text" name="lastname" value="Mouse">
+  Location:<br>
+  <input type="text" style="width:400px;" location="location" value="">
+  Preffered Booking Date:<br>
+  <input type="date" id="myDate"style="width:400px;">
+  <br>Email Address:<br>
+  <input type="text" style="width:400px;" email="email" value="">
+  <br>
+  Contact Number:<br>
+  <input type="text" style="width:400px;" phone="phone" value="">
+  <br>
+  Service:
+  <br>  <select name="services" style="width:400px;">
+  <option value="party">Party</option>
+  <option value="prom">Prom</option>
+  <option value="bridal">Bridal</option>
+  <option value="trial">Trial</option>
+</select>
+<br>
+Additional Comments: 
+<textarea name="message" style="width:400px; height:200px;"></textarea>
+
   <br><br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Send">
+
+
+  <a href="mailto:someone@example.com"></>
 </form>
+
+
+
+
+
 
 </div>
 </div>
