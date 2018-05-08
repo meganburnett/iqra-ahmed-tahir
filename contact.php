@@ -48,7 +48,7 @@
         <img src="./img/contact-title.png" class="img-fluid" alt="Responsive image" style="margin-top:-35%;">
         </div>
         <div class="col-md-4"  style="margin-top:-15%;">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.7660238565218!2d-0.14536484889650958!3d51.49916101902697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760521f5b442c1%3A0xead4b2edc5a3649e!2sBuckingham+Palace+Rd%2C+London+SW1W+0PP!5e0!3m2!1sen!2suk!4v1525637688689" width="550" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+        text
         </div>
     </div>
     
