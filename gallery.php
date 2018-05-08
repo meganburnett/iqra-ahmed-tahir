@@ -34,6 +34,25 @@
     <!-- navigation-->
     <?php include('./duplicates/navigation.php'); ?>   
 
+  <header class="masthead2"> 
+        <div class="row">
+        <div style="margin-top:10%; margin-left:10%; margin-right:10%;">     
+            </div>
+        </div>
+    </header>
+
+       <div class="row" style="margin-left:1%; margin-right:1%">
+        <div class="col-md-7" >
+        
+        <img src="./img/gallery-title.png" class="img-fluid" alt="Responsive image" style="margin-top:-35%;">
+        </div>
+        <div class="col-md-4"  style="margin-top:-20%;">
+        <!-- <img src="./img/" class="img-fluid" alt="Responsive image"> -->
+        </div>
+    </div>
+    
+
+
            
 <!-- <?php include('./duplicates/footer.php'); ?>     -->
    
