@@ -158,14 +158,13 @@ img::-moz-selection {
 }
 header.masthead {
   padding-top: 10rem;
-  padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-image: url("../img/marble.png");
+  background-image: url("../img/marble2.png");
 }
 
 footer.footer {
@@ -178,7 +177,7 @@ footer.footer {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-color: grey;
+  color: grey;
 
 }
 

@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>IQRA</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -61,7 +61,7 @@ div.zoom {
 
     <header class="masthead"> 
         <div class="row">
-        <div style="margin-top:10%; margin-left:10%; margin-right:10%;">      
+        <div style="margin-top:10%; margin-left:20%; margin-right:20%; width:60%">      
           <img src="./img/banner.png" class="img-fluid" alt="Responsive image">
           </div>
         </div>
