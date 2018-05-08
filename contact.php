@@ -63,9 +63,9 @@
         </div>
 
 
-    <div class="row" style="margin-top:-5%;"">
+    <div class="row" style="margin-top:-5%;">
 
-        <div class="col-md-7" >
+        <div class="col-md-7">
 
  <form action=""><i>
   Name:<br>
@@ -106,7 +106,7 @@ Additional Comments:
 
 </div>
 </div>
-
+</div>
 
 
            
