@@ -48,7 +48,12 @@
         <img src="./img/contact-title.png" class="img-fluid" alt="Responsive image" style="margin-top:-35%;">
         </div>
         <div class="col-md-4"  style="margin-top:-15%;">
-        text
+        Want to book an appointment with me? 
+        Fill in the form below to enquire. whether it be a trial, party, prom or bridal makeup get in touch! 
+
+        I will aim to get back to you as soon as possible but please expect a response within 48 hours. 
+
+        *please take into consideration travel charges will apply to those not within a 5 mile radius.
         </div>
     </div>
     
