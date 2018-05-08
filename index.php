@@ -58,15 +58,15 @@ div.zoom {
   <?php include('./duplicates/navigation.php'); ?>   
 
    
-
-    <header class="masthead"> 
+<div>
+    <header class="masthead" style="height:50%;" > 
         <div class="row">
-        <div style="margin-top:10%; margin-left:20%; margin-right:20%; width:60%">      
+        <div style="margin-top:7%; margin-left:20%; margin-right:20%; width:80%">      
           <img src="./img/banner.png" class="img-fluid" alt="Responsive image">
           </div>
         </div>
     </header>
-
+</div>
 
 
  <div class="col-lg-8 mx-auto font" style="margin-top:5%">
@@ -107,7 +107,7 @@ div.zoom {
     </div>
 
 
-
+<?php include('./email-tester.php'); ?>
 
 
     <!-- footer -->
