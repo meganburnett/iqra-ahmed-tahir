@@ -107,7 +107,7 @@ div.zoom {
     </div>
 
 
-<?php include('./email-tester.php'); ?>
+
 
 
     <!-- footer -->
