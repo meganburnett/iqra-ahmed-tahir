@@ -45,19 +45,42 @@
     <div class="row" style="margin-left:1%; margin-right:1%">
         <div class="col-md-7" >
         
-        <img src="./img/contact-title.png" class="img-fluid" alt="Responsive image" style="margin-top:-35%;">
+        <img src="./img/contact-title.png" class="img-fluid" alt="Responsive image" style="margin-top:-50%;">
         </div>
-        <div class="col-md-4"  style="margin-top:-15%;">
-        Want to book an appointment with me? 
-        Fill in the form below to enquire. whether it be a trial, party, prom or bridal makeup get in touch! 
+        <div class="col-md-4"  style="margin-top:-5%;">
+       <p><h2> Interested in booking an appointment? </h2><br> </p>
+      <p style="text-align:justify"> <i>Fill in the form below to enquire. Whether it be a trial, party, prom or bridal makeup get in touch!<br> </p>
 
-        I will aim to get back to you as soon as possible but please expect a response within 48 hours. 
+      <p style="text-align:justify"> I will aim to get back to you as soon as possible but please expect a response within 48 hours. <br></p>
 
-        *please take into consideration travel charges will apply to those not within a 5 mile radius.
-        </div>
+      <p style="text-align:justify"> *please take into consideration travel charges will apply to those not within a 5 mile radius.<br></p>
+       </i> </div>
     </div>
     
-      
+    <div class="row" style="margin-left:1%; margin-right:1%">
+        <div class="col-md-1" >
+        </div>
+
+
+    <div class="row" style="margin-left:1%; margin-right:1%">
+        <div class="col-md-7" >
+
+
+
+    <form action="">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+
+</div>
+
+
+
            
 <?php include('./duplicates/footer.php'); ?>    
    
