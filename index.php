@@ -72,7 +72,7 @@ div.zoom {
  <div class="col-lg-8 mx-auto font" style="margin-top:5%">
         <h2 class="text-dark mb-5 text-center"> W E L C O M E </h2> <hr/>
         <p class="text-dark mb-5 text-center" style="font-size:15px; margin-top:5%;">
-     <i> I am whatever title and something else interesting to fill up a line and a half. Oh still not enough writing, what more really how is this not 1 and a half yet. Yay Finally.</i></p>
+     <i> I am a North East based makeup artist specialising in Prom, Party and Bridal looks. I have worked in the beauty industry for over 5 years as a beauty therapist and a makeup artist. Please take a look at my work and get in touch with me so I can share my passion with you and help you create your perfect make up look.</i></p>
     </div>
     
 
