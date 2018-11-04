@@ -55,22 +55,23 @@
       <div class="row" style="margin-left:10%; margin-right:10%">
         <div class="col-md-6">
            <p style="text-align:justify">
-           <h2>Bridal </h2>
+           <h2>My Services </h2>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius justo eget mi rhoncus, sed placerat diam malesuada. Curabitur ac ornare nisi. Curabitur gravida, quam quis tristique finibus, dolor augue varius metus, ut accumsan urna nisl sed ipsum. Pellentesque molestie nibh ac diam dapibus sollicitudin. Pellentesque id arcu condimentum, imperdiet nisl quis, ultrices tortor. Donec faucibus fringilla sem, a pretium dui hendrerit vel. Phasellus at sapien eget ligula fringilla commodo. Praesent consectetur porttitor ipsum, ac blandit mi sagittis ac. Ut sed scelerisque risus, in ultrices elit.</p><br>
            </div>
           <div class="col-md-2"></div>
-          <div class="col-md-4" style="margin-top: 5%">
-          <b> 01 </b> Overview <br/><br/>
-         <b> 02 </b>  Something Else <br/> <br/>
-          <b> 03 </b> Something Else <br/><br/> 
+         
+          <b>  </b>  <br/><br/>
+         <b>  </b>   <br/> <br/>
+          <b>  </b>  <br/><br/> 
           
           </div>
           </div>
  <div class="row" >
-        <div class="col-md-6" style="margin-top:5%">
+ <br><br><br><br>
+        <div class="col-md-6" style="margin-top:1%">
         <img src="./img/eye.png" class="img-fluid" alt="Responsive image">
         </div>
-        <div class="col-md-4" style="margin-top:5%; margin-left:2%">
+        <div class="col-md-4" style="margin-top:-5%; margin-left:2%">
         <p style="text-align:justify">
            <h2>Prom</h2>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius justo eget mi rhoncus, sed placerat diam malesuada. Curabitur ac ornare nisi. Curabitur gravida, quam quis tristique finibus, dolor augue varius metus, ut accumsan urna nisl sed ipsum. Pellentesque molestie nibh ac diam dapibus sollicitudin. Pellentesque id arcu condimentum, imperdiet nisl quis, ultrices tortor. Donec faucibus fringilla sem, a pretium dui hendrerit vel. Phasellus at sapien eget ligula fringilla commodo. Praesent consectetur porttitor ipsum, ac blandit mi sagittis ac. Ut sed scelerisque risus, in ultrices elit.</p><br>
@@ -79,9 +80,9 @@
 
  <div class="row" style="margin-top:5%" >
         <div class="col-md-6" style="margin-top:5%; margin-left:5%">
-        <b> 04 </b> Overview <br/><br/>
-         <b> 05 </b>  Something Else <br/> <br/>
-          <b> 06 </b> Something Else <br/><br/> 
+       
+         
+          <b>  </b> <br/><br/> 
           <p style="text-align:justify">
            <h2>Party</h2>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius justo eget mi rhoncus, sed placerat diam malesuada. Curabitur ac ornare nisi. Curabitur gravida, quam quis tristique finibus, dolor augue varius metus, ut accumsan urna nisl sed ipsum. Pellentesque molestie nibh ac diam dapibus sollicitudin. Pellentesque id arcu condimentum, imperdiet nisl quis, ultrices tortor. Donec faucibus fringilla sem, a pretium dui hendrerit vel. Phasellus at sapien eget ligula fringilla commodo. Praesent consectetur porttitor ipsum, ac blandit mi sagittis ac. Ut sed scelerisque risus, in ultrices elit.</p><br>
@@ -90,7 +91,16 @@
         <img src="./img/makeup.png" class="img-fluid" alt="Responsive image">
         </div>
 </div>
-
+<div class="row" >
+        <div class="col-md-6" style="margin-top:5%">
+        <img src="./img/lips.jpg" class="img-fluid" alt="Responsive image">
+        </div>
+        <div class="col-md-4" style="margin-top:5%; margin-left:2%">
+        <p style="text-align:justify">
+           <h2>Bridal</h2>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius justo eget mi rhoncus, sed placerat diam malesuada. Curabitur ac ornare nisi. Curabitur gravida, quam quis tristique finibus, dolor augue varius metus, ut accumsan urna nisl sed ipsum. Pellentesque molestie nibh ac diam dapibus sollicitudin. Pellentesque id arcu condimentum, imperdiet nisl quis, ultrices tortor. Donec faucibus fringilla sem, a pretium dui hendrerit vel. Phasellus at sapien eget ligula fringilla commodo. Praesent consectetur porttitor ipsum, ac blandit mi sagittis ac. Ut sed scelerisque risus, in ultrices elit.</p><br>
+        </div>
+</div>
            
 <?php include('./duplicates/footer.php'); ?>    
    
