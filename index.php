@@ -72,33 +72,31 @@ div.zoom {
  <div class="col-lg-8 mx-auto font" style="margin-top:5%">
         <h2 class="text-dark mb-5 text-center"> W E L C O M E </h2> <hr/>
         <p class="text-dark mb-5 text-center" style="font-size:15px; margin-top:5%;">
-     <i>   YOLO!!!! I am a North East based makeup artist specialising in Prom, Party and Bridal looks. I have worked in the beauty industry for over 5 years as a beauty therapist and a makeup artist. Please take a look at my work and get in touch with me so I can share my passion with you and help you create your perfect make up look.</i></p>
+     <i>  I am a North East based makeup artist specialising in Prom, Party and Bridal looks. I have worked in the beauty industry for over 5 years as a beauty therapist and a makeup artist. Please take a look at my work and get in touch with me so I can share my passion with you and help you create your perfect make up look.</i></p>
     </div>
     
 
 
-    <div class="row" style="margin-top:7%; margin-left:1%; margin-right:1%">
-        <div class="col-md-7 img">
-        <img src="./img/about-iqra.png" class="img-fluid" alt="Responsive image">
-        </div>
-
-         <div class="col-md-5 img">
-        <img src="./img/portfolio.png" class="img-fluid" alt="Responsive image">
-        <div class="centered"><div class="zoom" style="width:90%"></div></div>
-        </div>
-
+  <div class="row" style="margin-top:7%; margin-left:1%; margin-right:1%">
+    <div class="col-md-7 img">
+      <a href="./about.php"><img src="./img/about-iqra.png" class="img-fluid" alt="about iqra"></a>
+    </div>
+   <div class="col-md-5 img">
+    <img src="./img/portfolio.png" class="img-fluid" alt="portfolio page">
+        <a href="./gallery.php">  <div class="centered"><div class="zoom" style="width:90%"></div></div> </a>
+     </div>
 </div>
 
     
       <div class="row" style="margin-top:2%; margin-left:1%; margin-right:1%">
         <div class="col-md-4 img">
-                   <img src="./img/service.png" class="img-fluid" alt="Responsive image">
+              <a href="./services.php">     <img src="./img/service.png" class="img-fluid" alt="view service"></a>
         </div>
         <div class="col-md-4 img">
-                   <img src="./img/blogblock.png" class="img-fluid" alt="Responsive image">
+                   <img src="./img/blogblock.png" class="img-fluid" alt="view blog">
         </div>
         <div class="col-md-4 img">
-                   <img src="./img/contactblock.png" class="img-fluid" alt="Responsive image">
+        <a href="./contact.php"><img src="./img/contactblock.png" class="img-fluid" alt="view contact page"></a>
         </div>
     </div>
     
