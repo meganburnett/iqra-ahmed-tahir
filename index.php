@@ -84,7 +84,7 @@ div.zoom {
    <div class="col-md-5 img">
     <img src="./img/portfolio.png" class="img-fluid" alt="portfolio page">
         <a href="./gallery.php">  <div class="centered"><div class="zoom" style="width:90%"></div></div> </a>
-     </div>
+      </div>
 </div>
 
     
